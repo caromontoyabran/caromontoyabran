@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software and Cloud Support Engineer
 -----------------------------------
 
-With strong foundations on Python and R for data analysis, now it's being more than year and a half supporting the Application Insights Azure team
+Started with Python and R for data analysis, 1.8+ years supporting Azure Application Insights team, now diving into JavaScript.
 
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [cmontobran@gmail.com](mailto:cmontobran@gmail.com)
